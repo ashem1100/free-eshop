@@ -1,0 +1,4 @@
+@import url("../node_modules/vazir-font/dist/font-face.css");
+*{
+    font-family: Vazir;
+}
